@@ -1,4 +1,4 @@
-# editReadMe
+# ReadMe
 
 # 💫 About Me:
 Passionate student with a strong foundation in Information and Communication Technology, currently a final-year student at Rangsit University in Thailand. Demonstrated experience in creating campaign websites for university projects, and engaging in small-scale animation projects. Adept at collaborating in group work environments and contributing effectively to project goals. Possess teaching experience in Chemistry and English, showcasing strong communication skills and the ability to convey complex information clearly. Eager to apply academic knowledge and hands-on project experience to real-world challenges.
